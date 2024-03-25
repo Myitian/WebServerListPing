@@ -1,0 +1,10 @@
+@MCServerMon_HostAddress = http://localhost:5183
+
+GET {{MCServerMon_HostAddress}}/mc233.cn
+###
+GET {{MCServerMon_HostAddress}}/play.mccisland.net
+###
+GET {{MCServerMon_HostAddress}}/play.cubecraft.net
+###
+GET {{MCServerMon_HostAddress}}/mc.hypixel.net
+###

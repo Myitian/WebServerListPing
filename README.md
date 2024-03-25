@@ -1,2 +1,2 @@
 # WebServerListPing
-Perform Minecraft 1.7+ Server List Ping by web API.
+Perform Minecraft 1.7+ Server List Ping and return status response from web API.
